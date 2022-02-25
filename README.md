@@ -19,5 +19,5 @@ SBS게임아카데미에서 진행하는 유니티 기초반에 사용되는 수
 
 
 ## 실행 파일 다운로드 ##
-- 마지막 업데이트 : `업로드 전`
-- 링크 : `업로드 전`
+- 마지막 업데이트 : `2022-02-25`
+- 링크 : [v1.0](https://github.com/cloudysolar/Unity_3DTutorial/releases/tag/v1.0)
