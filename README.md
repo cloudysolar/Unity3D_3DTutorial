@@ -1,4 +1,4 @@
-# Unity_3DTutorial #
+# Unity3D_3DTutorial #
 SBS게임아카데미에서 진행하는 유니티 기초반에 사용되는 수업 자료입니다.  
 2차 재배포 및 상업적 이용을 금합니다.
 
